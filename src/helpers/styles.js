@@ -1,0 +1,10 @@
+import '../assets/css/normalize.css';
+import '../assets/css/responsive.css';
+import '../assets/css/animate.css';
+// import '../assets/css/owl.carousel.css';
+import '../assets/css/stellarnav.min.css';
+import '../assets/css/font-awesome.min.css';
+import '../assets/css/material-icons.css';
+import '../assets/css/slick.css';
+import '../assets/css/style.css';
+// import '../assets/css/modal-video.min.css';
